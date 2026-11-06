@@ -97,4 +97,3 @@ Trong production, guideline quy định taxonomy, đơn vị nhãn và cách x�
 - [x] `day1_lab_outputs/visuals/segmentation_prediction.png`
 - [x] Ô validation notebook báo `PASS`: đủ 3 JSON, 3 PNG, attribution và instance_id duy nhất.
 - [x] Không có định danh cá nhân của học viên hoặc dữ liệu nhạy cảm bổ sung trong báo cáo/output; tên/MSSV chỉ dùng ở tên repository theo yêu cầu lớp.
-- [ ] Đã nộp **link repository** trên LMS — học viên tự thực hiện sau khi kiểm tra bài trên GitHub.
